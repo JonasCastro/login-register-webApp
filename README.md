@@ -1,4 +1,8 @@
-# login-register-webApp
+
+<h2 align="center"> login-register-webApp</h2>
+
+
+![Farmers Market Finder Demo](demo.gif)
 
 ## :gear: Technologies
 - [Node.js](https://nodejs.org/en/)
@@ -26,10 +30,4 @@
 2. Run `yarn` to install the dependencies;
 3. Run `yarn start` to start the server.
 
-## Views 
 
-<h1 align="center">
-    <img  src="image/1- login.png" width="250px"/>
-    <img  src="image/2- register.png" width="250px"/>
-    <img  src="image/3 - table crud.png" width="250px"/>
-</h1>
